@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+    color: white;
+}
+#me{
+    transition: background 0.7s, transform 0.7s;
+}
